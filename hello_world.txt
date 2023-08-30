@@ -1,0 +1,5 @@
+Hello world!
+My name is Aparna Gana and I'm a first-year student.
+I am really enjoying working my way through Git and GitHub.
+This is my first exposure to programming and open distributed version control systems.
+And the work is fascinating!
